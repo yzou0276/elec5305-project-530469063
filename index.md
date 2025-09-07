@@ -8,6 +8,7 @@ GitHub Username: yzou0276
 
 
 
+
 ## Project Overview
 
 The method is divided into six parts: data preparation and annotation, feature engineering, model design, training strategy and loss, post-processing and online judgment, and evaluation and ablation. We strive to switch features, architectures, or post-processing strategies through configuration without changing the code. The overall engineering goal is end-to-end runnability and reproducibility. Each training run is completed with the configuration, random seed, dependency versions, and command line calls to ensure that the results correspond to the configuration.
