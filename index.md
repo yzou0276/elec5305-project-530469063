@@ -142,12 +142,10 @@ The confusion matrices show that the DS-CNN:
 
 ## 7. Links
 
-- **Code repository**: (this GitHub repo)  
-- **Project report (PDF)**: `[Download report](./TODO_Project_Report_YutingZou.pdf)`  
+- **Code repository**: [(this GitHub repo)](https://github.com/yzou0276/elec5305-project-530469063/tree/main/code)  
+- **Project report (PDF)**: 
 - **Result figures**:
-  - `[Training & validation curves](./TODO_fig_training_curves.png)`  
-  - `[DS-CNN confusion matrix](./TODO_fig_dscnn_cm.png)`  
-  - `[Energy-VAD confusion matrix](./TODO_fig_energy_cm.png)`  
-- **Demo video**: `[Project demo video](https://youtu.be/TODO_your_video_link)`
+ https://github.com/yzou0276/elec5305-project-530469063/tree/main/Result%20Figure   
+- **Demo video**: 
 
-*(Replace every `TODO_...` with your actual file paths or URLs before submitting.)*
+
