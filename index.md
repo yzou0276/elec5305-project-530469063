@@ -1,20 +1,12 @@
-## Deep Learning Voice Activity Detction in Noisy Environments
-
-
-Name: YutingZou
-SID: 530469063
-GitHub Username: yzou0276
-
-
-
 Repo： https://github.com/yzou0276/elec5305-project-530469063
 
 Page： https://yzou0276.github.io/elec5305-project-530469063
 
-
-
-
 # Lightweight DS-CNN Voice Activity Detection (VAD)
+
+Name: YutingZou
+SID: 530469063
+GitHub Username: yzou0276
 
 This repository contains the implementation of my ELEC5305 project on **lightweight voice activity detection (VAD)** using a **Depthwise Separable CNN (DS-CNN)**.
 
