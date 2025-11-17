@@ -145,6 +145,6 @@ The confusion matrices show that the DS-CNN:
 - **Code repository**: https://github.com/yzou0276/elec5305-project-530469063/tree/main/code
 - **Result figures**:
  https://github.com/yzou0276/elec5305-project-530469063/tree/main/Result%20Figure   
-- **Demo video**: 
+- **Demo video**: https://drive.google.com/file/d/1zViCTBr9bhqQiFMUwQhtt4H4org-xYVq/view?usp=sharing
 
 
